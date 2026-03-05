@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+pydantic
+pyyaml
+tqdm
+ollama
+typer
