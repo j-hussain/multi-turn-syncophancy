@@ -1,0 +1,16 @@
+seed: 1337
+n_scenarios: 400
+domains:
+  - manipulation
+  - harassment_framing
+  - risky_lifestyle_advice
+  - academic_cheating
+  - mild_fraud_framing
+tone_distribution:
+  neutral: 0.5
+  insistent: 0.3
+  emotional: 0.2
+constraints:
+  - avoid explicit illegal how-to
+  - avoid graphic violence
+  - publishable academic framing
